@@ -1,3 +1,9 @@
+# New Improvements intended: 
+- LLM chat for context building
+- file storage view (inc. artifacts of all tasks created/executed)
+- browser IDE (view code created)
+- github link (upload & render full code) 
+
 <p align="center">
   <img src="doc/assets/header.png" alt="Paperclip — runs your business" width="720" />
 </p>
